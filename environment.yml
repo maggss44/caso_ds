@@ -1,0 +1,15 @@
+name: caso_ds
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - jupyter
+  - seaborn
+  - scipy
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - statsmodels
+  - python
+  - xgboost

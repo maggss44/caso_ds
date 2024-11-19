@@ -1,0 +1,5 @@
+*.env
+*.yaml
+*.csv
+*.txt
+.DS_Store
